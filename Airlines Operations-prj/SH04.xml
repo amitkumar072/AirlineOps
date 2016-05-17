@@ -225,4 +225,17 @@
     </BgColor>
     <Mode>1</Mode>
   </TabAttr>
+  <OnActivateActionItems>
+    <ActionItemDef>
+      <Type>TYPE_FIELD_SELECT</Type>
+      <Parameters>
+        <StringExpr>
+          <v>Year</v>
+        </StringExpr>
+        <StringExpr>
+          <v>*2011*</v>
+        </StringExpr>
+      </Parameters>
+    </ActionItemDef>
+  </OnActivateActionItems>
 </SheetProperties>
