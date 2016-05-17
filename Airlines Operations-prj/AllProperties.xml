@@ -1350,7 +1350,6 @@
     <FieldProperties>
       <CanFrequecy>true</CanFrequecy>
       <Name>Year</Name>
-      <OneAndOnlyOne>true</OneAndOnlyOne>
       <NumberPresentation>
         <nDec>0</nDec>
       </NumberPresentation>
@@ -1579,6 +1578,7 @@
     <FieldProperties>
       <CanFrequecy>true</CanFrequecy>
       <Name>Metric Name</Name>
+      <OneAndOnlyOne>true</OneAndOnlyOne>
       <NumberPresentation>
         <nDec>0</nDec>
       </NumberPresentation>

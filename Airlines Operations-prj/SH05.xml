@@ -39,4 +39,9 @@
     </BgColor>
     <Mode>1</Mode>
   </TabAttr>
+  <OnActivateActionItems>
+    <ActionItemDef>
+      <Type>TYPE_CLEAR_ALL</Type>
+    </ActionItemDef>
+  </OnActivateActionItems>
 </SheetProperties>
