@@ -1,4 +1,4 @@
-﻿<!-- Last project change: 2016-05-17 17:34:23 (2016-05-17 12:04:23) -->
+﻿<!-- Last project change: 2016-05-18 18:03:37 (2016-05-18 12:33:37) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -513,20 +513,6 @@
           <ShowMode>1</ShowMode>
         </PrjFrameParentDef>
         <PrjFrameParentDef>
-          <ObjectId>Document\BM01</ObjectId>
-          <Rect>
-            <Left>3159</Left>
-            <Top>1103</Top>
-            <Width>816</Width>
-            <Height>406</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
           <ObjectId>Document\CT01</ObjectId>
           <Rect>
             <Left>863</Left>
@@ -592,6 +578,7 @@
             <Width>834</Width>
             <Height>116</Height>
           </MinimizedRect>
+          <ShowMode>1</ShowMode>
         </PrjFrameParentDef>
         <PrjFrameParentDef>
           <ObjectId>Document\BU01</ObjectId>
@@ -636,20 +623,6 @@
           <ShowMode>1</ShowMode>
         </PrjFrameParentDef>
         <PrjFrameParentDef>
-          <ObjectId>Document\SB01</ObjectId>
-          <Rect>
-            <Left>3163</Left>
-            <Top>1513</Top>
-            <Width>1050</Width>
-            <Height>900</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
           <ObjectId>Document\MB02</ObjectId>
           <Rect>
             <Top>1306</Top>
@@ -676,124 +649,6 @@
             <Width>838</Width>
             <Height>103</Height>
           </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-      </ChildObjects>
-    </PrjSheetProperties>
-    <PrjSheetProperties>
-      <SheetId>Document\SH01</SheetId>
-      <ChildObjects>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB38</ObjectId>
-          <Rect>
-            <Left>2316</Left>
-            <Top>788</Top>
-            <Width>450</Width>
-            <Height>444</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB03</ObjectId>
-          <Rect>
-            <Left>1828</Left>
-            <Top>781</Top>
-            <Width>450</Width>
-            <Height>456</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB02</ObjectId>
-          <Rect>
-            <Left>1350</Left>
-            <Top>781</Top>
-            <Width>450</Width>
-            <Height>453</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB01</ObjectId>
-          <Rect>
-            <Left>881</Left>
-            <Top>772</Top>
-            <Width>450</Width>
-            <Height>459</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB05</ObjectId>
-          <Rect>
-            <Left>2313</Left>
-            <Top>325</Top>
-            <Width>450</Width>
-            <Height>453</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB07</ObjectId>
-          <Rect>
-            <Left>1825</Left>
-            <Top>319</Top>
-            <Width>450</Width>
-            <Height>441</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB04</ObjectId>
-          <Rect>
-            <Left>1353</Left>
-            <Top>322</Top>
-            <Width>450</Width>
-            <Height>438</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB06</ObjectId>
-          <Rect>
-            <Left>888</Left>
-            <Top>322</Top>
-            <Width>450</Width>
-            <Height>434</Height>
-          </Rect>
-          <MinimizedRect>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
         </PrjFrameParentDef>
       </ChildObjects>
     </PrjSheetProperties>
